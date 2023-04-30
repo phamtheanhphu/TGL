@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "window_size": 5,
+  "embedding_size": 50,
+  "GNN_COVID_embedding_size": 12,
+  "input_size": 62,
+  "output_size": 62,
+  "RNN_hidden_dim": 128,
+  "testing_start_at": 112,
+  "validation_start_at": 111,
+  "number_of_epochs": 30,
+  "number_of_rnn_epochs": 100,
+  "learning_rate": 0.007,
+  "batch_size": 1,
+  "patience": 200,
+  "threshold": 1e-6
+}
